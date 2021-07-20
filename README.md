@@ -1,23 +1,31 @@
 # 100_days_of_code
-In this repository you will learn about different python projects and try them on your own to learn better.
-
-# Project Name
-> Outline a brief description of your project.
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> In this repository you will learn about my daily learning during 100 days which includes different basic python projects, Exploratory Data Analysis using different Python libraries and worked on different datasets.
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
-* [Contact](#contact)
-<!-- * [License](#license) -->
-
+| Notebook | Description |
+|--------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [1. Calculator](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%231_Calculator.ipynb) | Calculator program for addition, subtraction, multiplication, division |
+| [2. Guess the Number(Computer)](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%232_Guess_the_number(computer).ipynb) | The computer chooses a random number and user has to guess the number. |
+| [3, Guess the Number(User)](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%233_Guess_the_number(user).ipynb) | The User chooses a random number and the computer has to guess the number. |
+| [4. Rock Paper and Scissor](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%234_Rock_Paper_Scissor.ipynb) | Rock, Paper and Scissor game using python. |
+| [5. Hangman Game](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%235_hangman_game/%235_Hangman_game.ipynb) | Hangman Game in which user has to guess the words till the lives run out. |
+| [6. Morse Code](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%236_Morsecode/%236_morse_code_converter.ipynb) | Used morse code library in python to convert string into morse code. |
+| [7. Random Password Generator](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%237_Random_password_generator.ipynb) | Generate random password for the given length. |
+| [8. Basics Python Exercise](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%238_Exercise_for_basics.ipynb) | Finding Max and Min number, Sorting, Swapping two variables. |
+| [9. List Operations](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%239_list_operations.ipynb) | Different list operations like Insert, append, pop, remove, sort. |
+| [10. Rolling Dice](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%2310_Rolling_the_dice.ipynb) | Rolling Dice using randint() method. |
+| [11. Intructor Led Coding Session](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%2311_Instructor_led_coding_session.ipynb) | Basics of string and worked on Pokemon data. |
+| [1. Calculator](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%231_Calculator.ipynb) | Calculator program for addition, subtraction, multiplication, division |
+| [2. Guess the Number(Computer)](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%232_Guess_the_number(computer).ipynb) | The computer chooses a random number and user has to guess the number. |
+| [3, Guess the Number(User)](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%233_Guess_the_number(user).ipynb) | The User chooses a random number and the computer has to guess the number. |
+| [4. Rock Paper and Scissor](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%234_Rock_Paper_Scissor.ipynb) | Rock, Paper and Scissor game using python. |
+| [5. Hangman Game](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%235_hangman_game/%235_Hangman_game.ipynb) | Hangman Game in which user has to guess the words till the lives run out. |
+| [6. Morse Code](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%236_Morsecode/%236_morse_code_converter.ipynb) | Used morse code library in python to convert string into morse code. |
+| [7. Random Password Generator](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%237_Random_password_generator.ipynb) | Generate random password for the given length. |
+| [8. Basics Python Exercise](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%238_Exercise_for_basics.ipynb) | Finding Max and Min number, Sorting, Swapping two variables. |
+| [9. List Operations](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%239_list_operations.ipynb) | Different list operations like Insert, append, pop, remove, sort. |
+| [10. Rolling Dice](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%2310_Rolling_the_dice.ipynb) | Rolling Dice using randint() method. |
+| [11. Intructor Led Coding Session](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%2311_Instructor_led_coding_session.ipynb) | Basics of string and worked on Pokemon data. |
 
 ## General Information
 - Provide general information about your project here.
@@ -28,9 +36,12 @@ In this repository you will learn about different python projects and try them o
 
 
 ## Technologies Used
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Python 3
+- Numpy
+- Pandas
+- Matplotlib
+- Seaborn
+- MySQL 
 
 
 ## Features
@@ -38,11 +49,6 @@ List the ready features here:
 - Awesome feature 1
 - Awesome feature 2
 - Awesome feature 3
-
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
-<!-- If you have screenshots you'd like to share, include them here. -->
 
 
 ## Setup
