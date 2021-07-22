@@ -21,11 +21,11 @@
 | [15. Reverse Cypher](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2315_Reverse_Cypher_program.ipynb) | Reverse the given string. |
 | [16. Inheritence in Python](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2316_Inheritence.ipynb) | Inheritence in python. |
 | [17. Abstract Class](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2317_Abstract_Classes.ipynb) | By defining an abstract base class, you can define a common Application Program Interface(API) for a set of subclasses. [more info](https://www.geeksforgeeks.org/abstract-classes-in-python/) |
-| [18. Pattern Printing](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%237_Random_password_generator.ipynb) | Generate random password for the given length. |
-| [8. Basics Python Exercise](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%238_Exercise_for_basics.ipynb) | Finding Max and Min number, Sorting, Swapping two variables. |
-| [9. List Operations](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%239_list_operations.ipynb) | Different list operations like Insert, append, pop, remove, sort. |
-| [10. Rolling Dice](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%2310_Rolling_the_dice.ipynb) | Rolling Dice using randint() method. |
-| [11. Intructor Led Coding Session](https://github.com/Boken19/100_days_of_code/blob/main/daily_learning/%2311_Instructor_led_coding_session.ipynb) | Basics of string and worked on Pokemon data. |
+| [18. Pattern Printing](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2318_Pattern_printing.ipynb) | Printing a doormat pattern written WELCOME in it. |
+| [19. Linked List](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2319_Linked_list.ipynb) | A linked list is a sequence of data elements, which are connected together via links. Each data element contains a connection to another data element in form of a pointer. |
+| [20. Exception Handling](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2320_Exception_Handling.ipynb) | Exception Handling in Python. |
+| [21. Manually Raising Exception](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2321_Manually_raising_exception.ipynb) | When the user enters the wrong value it will handle the exception. |
+| [22. Palindrome using Queue](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2322_Palindrome_using_Queue.ipynb) | Queue use First in First out method. |
 
 ## General Information
 - Provide general information about your project here.
