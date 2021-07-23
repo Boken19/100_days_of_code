@@ -26,7 +26,28 @@
 | [20. Exception Handling](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2320_Exception_Handling.ipynb) | Exception Handling in Python. |
 | [21. Manually Raising Exception](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2321_Manually_raising_exception.ipynb) | When the user enters the wrong value it will handle the exception. |
 | [22. Palindrome using Queue](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2322_Palindrome_using_Queue.ipynb) | Queue use First in First out method. |
-
+| [23. Alphabet Rangoli](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2323_Alphabet_Rangoli.ipynb) | Pattern printing in the form of rangoli made with alphabets. |
+| [24. Bubble Sort](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2324_Bubble_Sort.ipynb) | In Bubble sort, Each element of the array is compared with its adjacent element. The algorithm processes the list in passes. A list with n elements requires n-1 passes for sorting. Complexity: O(n^2) |
+| [25. Tic Tac Toe](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2325_Tic_Tac_Toe.ipynb) | The classic board game of Tic Tac Toe. |
+| [26. Verify Username & Password](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2326_Verify_Username_Password.ipynb) | Verify Username & Password with if-else condition. |
+| [27. User System Exit](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2327_User_System_exit.ipynb) | Using system library to exit the code when user enters exit. |
+| [28. Pattern matching with Regular Expression](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2328_Pattern_matching_with_regular_expressions.ipynb) | Using regex library to match the pattern. |
+| [29. Meeting Schedule Time](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2329_Problem_Statement_MNC.ipynb) | Scheduling meeting time for different groups for same meeting room. |
+| [30. Age Calculator](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2330_Datetime_Age_calculator.ipynb) | Using datetime library for finding days remaining for the birthday. |
+| [9. List Operations](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%239_list_operations.ipynb) | Different list operations like Insert, append, pop, remove, sort. |
+| [10. Rolling Dice](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2310_Rolling_the_dice.ipynb) | Rolling Dice using randint() method. |
+| [11. Intructor Led Coding Session](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2311_Instructor_led_coding_session.ipynb) | Basics of string and worked on Pokemon data. |
+| [12. Binary Search](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2312_Binary_Search.ipynb) | Search a sorted array by repeatedly dividing the search interval in half. Complexity: log n |
+| [13. Email Slicer](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2313_Email_slicer.ipynb) | Slice the email in username and domain name. |
+| [14. Binary Conversion(Hacker Rank)](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2314_Binary_conversion_solution.ipynb) | To check how many consecutive 1's are there in binary conversion. |
+| [15. Reverse Cypher](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2315_Reverse_Cypher_program.ipynb) | Reverse the given string. |
+| [16. Inheritence in Python](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2316_Inheritence.ipynb) | Inheritence in python. |
+| [17. Abstract Class](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2317_Abstract_Classes.ipynb) | By defining an abstract base class, you can define a common Application Program Interface(API) for a set of subclasses. [more info](https://www.geeksforgeeks.org/abstract-classes-in-python/) |
+| [18. Pattern Printing](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2318_Pattern_printing.ipynb) | Printing a doormat pattern written WELCOME in it. |
+| [19. Linked List](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2319_Linked_list.ipynb) | A linked list is a sequence of data elements, which are connected together via links. Each data element contains a connection to another data element in form of a pointer. |
+| [20. Exception Handling](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2320_Exception_Handling.ipynb) | Exception Handling in Python. |
+| [21. Manually Raising Exception](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2321_Manually_raising_exception.ipynb) | When the user enters the wrong value it will handle the exception. |
+| [22. Palindrome using Queue](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2322_Palindrome_using_Queue.ipynb) | Queue use First in First out method. |
 ## General Information
 - Provide general information about your project here.
 - What problem does it (intend to) solve?
