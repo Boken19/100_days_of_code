@@ -44,17 +44,36 @@
 | [38. Collatz Conjecture](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2338_Collatz_conjecture_Algo.ipynb) | The Collatz conjecture is a conjecture in mathematics that concerns sequences. |
 | [39. Tower of Hanoi](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2339_Tower_of_Hanoi.ipynb) | Towe of Hanoi using recurssion. |
 | [40. Queue](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2340_Queue.ipynb) | Implementing queue in python using lists. |
-| [19. Linked List](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2319_Linked_list.ipynb) | A linked list is a sequence of data elements, which are connected together via links. Each data element contains a connection to another data element in form of a pointer. |
-| [20. Exception Handling](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2320_Exception_Handling.ipynb) | Exception Handling in Python. |
-| [21. Manually Raising Exception](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2321_Manually_raising_exception.ipynb) | When the user enters the wrong value it will handle the exception. |
-| [22. Palindrome using Queue](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2322_Palindrome_using_Queue.ipynb) | Queue use First in First out method. |
+| [41. Interview problem statements](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2341_Interview_Questions.ipynb) | Problem statementas on Maximum distance between same digits and finding out maximum votes for the food you have to order. |
+| [42. Netflix most and least popular](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2342_netflix_most_and_least_popular.ipynb) | The netflix dictionary contains a list of 100 titles along with their total number of views in the past. |
+| [43. Find Extra Character(String)](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2343_String_problem.ipynb) | Given two strings, one of the strings will contain an extra character. Find the extra character. |
+| [44. Pascals Triangle](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2344_Pascals_Triangle.ipynb) | The numbers are so arranged that they reflect as a triangle. Firstly, 1 is placed at the top, and then we start putting the numbers in a triangular pattern. |
+| [45. Arrays in Numpy](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2345_Creating_arrays_using_numpy.ipynb) | Creating arrays using Numpy. |
+| [46. Printing * patterns](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2346_Printing_patterns.ipynb) | Printing different types of * patterns. |
+| [47. Datetime and Time](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2347_Datetime_and_time.ipynb) | Using Datetime and Time library to print various formats. |
+| [48. Text to Speech](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2348_Text_to_Speech.ipynb) | Converts texts to speech. |
+| [49. Modules in Python](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2349_Modules_in_Python.ipynb) | Consider a module to be the same as a code library. A file containing a set of functions you want to include in your application. |
+| [50. Speech Recognition](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2350_Speech_Recognition.ipynb) | Speech Recognition in python and printing listened audio.
+| [32. Largest substring among elements](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2332_Largest_substring_among_elements.ipynb) | You are given a list of string elements. You have to find the largest substring that is common in any of the two string elements present in this list. |
+| [33. Covid Containment Zone Investigation](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2333_Containment_zone_investigation.ipynb) | Containment zone investigation for delivery of products according to pincodes during covid. |
+| [34. Chocolate Problem](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2334_Chocolate_problem.ipynb) | Creating logic for buying maximum number of chocolates. |
+| [35. Jupyter themes](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2335_Jupyter_theme.ipynb) | Changing theme of your jupyter notebook. |
+| [36. Anagram](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2336_Anagram.ipynb) | Two strings are anagrams of each other if you can rearrange the characters of one string to make the other string. |
+| [37. Balanced Brackets](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2337_Balanced_Brackets.ipynb) | You will be given a string with a lot of brackets. You have to print if the brackets are balanced or not. |
+| [38. Collatz Conjecture](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2338_Collatz_conjecture_Algo.ipynb) | The Collatz conjecture is a conjecture in mathematics that concerns sequences. |
+| [39. Tower of Hanoi](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2339_Tower_of_Hanoi.ipynb) | Towe of Hanoi using recurssion. |
+| [40. Queue](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2340_Queue.ipynb) | Implementing queue in python using lists. |
+| [41. Interview problem statements](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2341_Interview_Questions.ipynb) | Problem statementas on Maximum distance between same digits and finding out maximum votes for the food you have to order. |
+| [42. Netflix most and least popular](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2342_netflix_most_and_least_popular.ipynb) | The netflix dictionary contains a list of 100 titles along with their total number of views in the past. |
+| [43. Find Extra Character(String)](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2343_String_problem.ipynb) | Given two strings, one of the strings will contain an extra character. Find the extra character. |
+| [44. Pascals Triangle](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2344_Pascals_Triangle.ipynb) | The numbers are so arranged that they reflect as a triangle. Firstly, 1 is placed at the top, and then we start putting the numbers in a triangular pattern. |
 ## General Information
 - Provide general information about your project here.
 - What problem does it (intend to) solve?
 - What is the purpose of your project?
 - Why did you undertake it?
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-
+P
 
 ## Technologies Used
 - Python 3
