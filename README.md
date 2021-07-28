@@ -73,14 +73,17 @@
 | [67. Practice on Seaborn](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2367_Practice_on_Seaborn.ipynb) | Drawing different visualizations using seaborn. |
 | [68. Data Cleaning](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2368_Data_Cleaning_part1.ipynb) | Cleaning the data of video game dataset. |
 | [69. Practice Question on Seaborn](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2369_Practice_Questions_Seaborn_Matplotlib.ipynb) | Drawing boxplots, pairplots, and heatmaps using seaborn. |
-| [70. IMDB Best 50 Movies(Web Scraping)](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2370_Web_Scraping_IMDB_50_Best.ipynb) | Creating a dataset of 50 best rated IMDB movies by Web Scraping  |
-| [71. ](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2357_Numpy_filtering.ipynb) | Filtering an array on given conditions using Numpy. |
-| [58. Image to PDf](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2358_Image_2_PDF.ipynb) | Converting image to pdf using img2pdf and pillow library. |
-| [59. Exercise on Numpy](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2359_NumPy_Exercise_Questions.ipynb) | Differnt exercises on Numpy. |
-| [60. Pandas Hands on](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2360_Hands_on_Pandas.ipynb) | Pandas is a very basic and an important library for all the data manipulation and handling task in Python. |
-| [42. Netflix most and least popular](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2342_netflix_most_and_least_popular.ipynb) | The netflix dictionary contains a list of 100 titles along with their total number of views in the past. |
-| [43. Find Extra Character(String)](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2343_String_problem.ipynb) | Given two strings, one of the strings will contain an extra character. Find the extra character. |
-| [44. Pascals Triangle](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2344_Pascals_Triangle.ipynb) | The numbers are so arranged that they reflect as a triangle. Firstly, 1 is placed at the top, and then we start putting the numbers in a triangular pattern. |
+| [70. IMDB Best 50 Movies(Web Scraping)](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2370_Web_Scraping_IMDB_50_Best.ipynb) | Creating a dataset of 50 best rated IMDB movies by Web Scraping. |
+| [71. IMDB top 100 Anime(Web Scraping)](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2371_Web_Scraping_Top_100_Anime.ipynb) | Creating a dataset of 100 best rated IMDB Anime list by Web Scraping. |
+| [72. Data Cleaning(Rows and Columns Theory)](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2372_Data_Cleaning_Rows_%26_Columns.ipynb) | Steps to clean rows and columns and handle missing values. |
+| [73. My IP Address](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2373_My_IP_Address.ipynb) | Find your IP Address. |
+| [74. EDA on Women's Apparel Sales](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2374_EDA_on_Women%27s_Apparel_Sales.ipynb) | Exploratory Data Analysis on Women's Apparel Sales dataset. |
+| [75. EDA on Bank Marketing Campaign](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2375_Bank_Marketing_Campaign_EDA.ipynb) | Exploratory Data Analytics with the help of a case study on "Bank marketing campaign". |
+| [76. EDA Interview Questions](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2376_EDA_Interview_Questions.ipynb) | Interview Questions on Exploratory Data Analysis. |
+| [77. EDA on Titanic Dataset](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2377_EDA_Titanic_data.ipynb) | EDA on Titanic Dataset of Kaggle. |
+| [78. Numpy HackerRank Basics](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2378_Numpy_HackerRank_Basics.ipynb) | Problems on HackerRank on Numpy. |
+| [79. Interview Warmup Challenge HackerRank](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2379_Interview_Warmup_challenge_hackerrank.ipynb) | Interview Warmup Challenge on HackerRank. |
+| [80. Hiker Valley Challenge HackerRank](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2380_Interview_challenge_hackerrank2.ipynb) | Hiker Valley Interview warmup challenge on HackerRank. |
 ## General Information
 - Provide general information about your project here.
 - What problem does it (intend to) solve?
