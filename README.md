@@ -104,6 +104,8 @@
 | [88. Switch Case using Dictionary](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2388_Switch_Case_using_Dictionary.ipynb) | Python doesn't have switch/case statements so it's sometimes necessary to implement an if-elif-else ladder. Rather, we can use a dictionary to map cases to their functionality. |
 | [89. Splitting string with Delimiters](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2389_Splitting_String_with_many_Delimiters.ipynb) | 're' module used to work with regular expressions. |
 | [90. Covid19 Italy Region EDA](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2390_Covid19_ItalyRegion_EDA.ipynb) | Exploratory Data Analysis for Covid19 Italy Region. |
+| [91. IMDB Top 100 movies EDA](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2391_IMDb_top_100_movies_EDA.ipynb) | Exploratory Data Analysis top 100 movies on IMDB. |
+
 ## General Information
 - Provide general information about your project here.
 - What problem does it (intend to) solve?
