@@ -105,6 +105,9 @@
 | [89. Splitting string with Delimiters](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2389_Splitting_String_with_many_Delimiters.ipynb) | 're' module used to work with regular expressions. |
 | [90. Covid19 Italy Region EDA](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2390_Covid19_ItalyRegion_EDA.ipynb) | Exploratory Data Analysis for Covid19 Italy Region. |
 | [91. IMDB Top 100 movies EDA](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2391_IMDb_top_100_movies_EDA.ipynb) | Exploratory Data Analysis top 100 movies on IMDB. |
+| [92. Library Problem HackerRank](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2392_Library_Problem_HackerRank.ipynb) | Your local library needs your help! Given the expected and actual return dates for a library book, create a program that calculates the fine (if any). |
+| [93. Counter in Python](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2393_Counter_in_Python.ipynb) | Raghu is a shoe shop owner. His shop has X number of shoes. He has a list containing the size of each shoe he has in his shop. There are N number of customers who are willing to pay P amount of money only if they get the shoe of their desired size. |
+| [94. Probability Scenarios in Real Life](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%2394_Probability_Scenarios_Real_Life.ipynb) | Probability with real life examples and how to use in the program. |
 
 ## General Information
 - Provide general information about your project here.
