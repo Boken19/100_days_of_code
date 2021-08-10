@@ -106,12 +106,7 @@
 | [100. Hypothesis Testing (Theory)](https://nbviewer.jupyter.org/github/Boken19/100_days_of_code/blob/main/daily_learning/%23100_Hypothesis_Testing%28Theory%29.ipynb) | Hypothesis Testing is used to confirm your conclusion (or hypothesis) about the population parameter (which you know from EDA or your intuition). Through hypothesis testing, you can determine whether there is enough evidence to conclude if the hypothesis about the population parameter is true or not. |
 
 ## General Information
-- Provide general information about your project here.
-- What problem does it (intend to) solve?
-- What is the purpose of your project?
-- Why did you undertake it?
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
-P
+- The 100 days of code is the project used to learn about data analysis using python, SQL, Exploratory Data Analysis, Inferential Statistics and Hypothesis Testing. Done some projects related to python and data analysis to have some experience with the langauge and its uses.
 
 ## Technologies Used
 - Python 3
@@ -133,13 +128,5 @@ What are the project requirements/dependencies? Where are they listed? A require
 
 Proceed to describe how to install / setup one's local environment / get started with the project.
 
-
-## Usage
-How does one go about using it?
-Provide various use cases and code examples here.
-
-`write-your-code-here`
-
-
 ## Project Status
-Project is: _in progress_ / _complete_ / _no longer being worked on_. If you are no longer working on it, provide reasons why.
+Project is: complete
