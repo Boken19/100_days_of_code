@@ -118,9 +118,9 @@
 
 ## Features
 List the ready features here:
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- You can try different Python projects and learn the basics of python.
+- You can learn about libraries used in Data Analysis like Numpy, Pandas, Matplotlib, Seaborn.
+- You can learn about Exploratory Data Analysis, Inferential statistics and Hypothesis testing.
 
 
 ## Setup
